@@ -29,10 +29,7 @@ Execute the programs and publish them.
 map.html
 
 <html>
-    <head>
-        <title>Sample Page</title>
-        <link rel="stylesheet" href="style.css">
-    </head>
+    
     <body>
 <img src="Screenshot 2025-09-22 092209.png" usemap="#image-map">
 
