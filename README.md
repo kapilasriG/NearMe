@@ -31,6 +31,8 @@ map.html
 <html>
     
     <body>
+        <h1 align="center">CUDDALORE</h1>
+        <h2 align="center">KAPILASRI G_(25014208)</h2>
 <img src="Screenshot 2025-09-22 092209.png" usemap="#image-map">
 
 <map name="image-map">
@@ -45,13 +47,8 @@ map.html
 
 devanampattinam.html
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=, initial-scale=1.0">
-    <title>Document</title>
-</head>
+
+<html>
 <body bgcolor="yellow">
     <h1 align="center">DEVANAMPATTINAM</h1>
     <hr size="5">
@@ -63,32 +60,19 @@ devanampattinam.html
 
 hotel.html
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+<html>
 <body bgcolor="pink">
     <h1 align="center">HOTEL SURIYAPRIYA</h1>
     <hr size="5">
     <p>
         Situated approximately a 10-minute drive from Singirikudi Sri Lakshmi Narasimha Swami Temple, Hotel Suriyapriya Cuddalore features Wi-Fi in public areas and a car park on site.The centre of Cuddalore is a 15 minutes' walk of the hotel. Devanathaswamy Temple is a 10-minute drive away, and Auroville is 29 km from the accommodation. This Cuddalore hotel lies a 10-minute ride from Padaleeswarar Temple. For those travelling from afar, Pondicherry airport is 41 minutes' drive away.
     </p>
-    
 </body>
 </html>
 
 area.html
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+<html>
 <body bgcolor="cyan">
     <h1 align="center">KAMMIYAMPETTAI</h1>
     <hr size="5">
@@ -101,13 +85,7 @@ area.html
 
 studio.html
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+<html>
 <body bgcolor="green">
     <h1 align="center">CHELLA FITNESS STUDIO</h1>
     <hr size="5">
@@ -120,13 +98,7 @@ studio.html
 
 residency.html
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=, initial-scale=1.0">
-    <title>Document</title>
-</head>
+<html>
 <body bgcolor="grey">
     <h1 align="center">SRI KRISHNA RESIDENCY</h1>
     <hr size="5">
@@ -139,9 +111,9 @@ residency.html
 
 ```
 
-
 ## OUTPUT
-![alt text](<kapila/mapapp/static/Screenshot 2025-09-22 092209.png>)
+
+![alt text](<Screenshot 2025-09-29 111807.png>)
 ![alt text](1.png)
 ![alt text](2.png)
 ![alt text](3.png)
